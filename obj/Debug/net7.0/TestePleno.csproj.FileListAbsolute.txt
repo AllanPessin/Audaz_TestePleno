@@ -1,0 +1,15 @@
+D:\Projetos\TestePleno\bin\Debug\net7.0\TestePleno.exe
+D:\Projetos\TestePleno\bin\Debug\net7.0\TestePleno.deps.json
+D:\Projetos\TestePleno\bin\Debug\net7.0\TestePleno.runtimeconfig.json
+D:\Projetos\TestePleno\bin\Debug\net7.0\TestePleno.dll
+D:\Projetos\TestePleno\bin\Debug\net7.0\TestePleno.pdb
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.csproj.AssemblyReference.cache
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.AssemblyInfoInputs.cache
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.AssemblyInfo.cs
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.csproj.CoreCompileInputs.cache
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.dll
+D:\Projetos\TestePleno\obj\Debug\net7.0\refint\TestePleno.dll
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.pdb
+D:\Projetos\TestePleno\obj\Debug\net7.0\TestePleno.genruntimeconfig.cache
+D:\Projetos\TestePleno\obj\Debug\net7.0\ref\TestePleno.dll

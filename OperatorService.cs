@@ -1,3 +1,8 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using TestePleno.Models;
 
 namespace TestePleno.Services {
@@ -6,7 +11,7 @@ namespace TestePleno.Services {
 
     public Operator GetOperatorByCode(string code) {
       var operators = _repository.GetAll<Operator>();
-      var selectedOperator = operators.First(o => o.Code == code);
+      var selectedOperator = operators.FirstOrDefault(o => o.Code == code);
       return selectedOperator;
     }
 
