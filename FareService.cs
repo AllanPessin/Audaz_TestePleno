@@ -1,0 +1,25 @@
+using TestePleno.Models;
+
+namespace TestePleno.Services {
+  public class FareService {
+    private Repository _repository = new Repository();
+
+    public void Create(Fare fare) {
+      _repository.Insert(fare);
+    }
+
+    public void Update(Fare fare) {
+      _repository.Update(fare);
+    }
+
+    public Fare GetFareById(Guid id) {
+      var fare = _repository.GetById<Fare>(id);
+      return fare;
+    }
+
+    public List<Fare> GetFares() {
+      var fares = _repository.GetAll<Fare>();
+      return fares;
+    }
+  }
+}
